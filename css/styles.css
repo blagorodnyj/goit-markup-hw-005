@@ -594,6 +594,8 @@ a .list-mediafooter {
     opacity: 1;
     transform: translateY(100%);
     color: var(--white);
+
+    transition: ;
         
 }
 
