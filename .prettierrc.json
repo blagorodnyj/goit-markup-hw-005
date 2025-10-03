@@ -9,5 +9,6 @@
     "jsxBracketSameline": false,
     "arrpwParens": "Avoid",
     "preseWrap": "always"
+    "editor.wordWrap": "on"
 
 }
